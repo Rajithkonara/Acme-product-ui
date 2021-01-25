@@ -2,7 +2,7 @@
   <v-container>
     <v-row>
       <v-col cols="12">
-        <table id="firstTable">
+        <table id="custom-table">
           <thead>
             <tr>
               <th>Product Name</th>
@@ -33,7 +33,7 @@
       <div>
         <v-col cols="12">
           <v-row justify="center">
-            <table id="firstTable">
+            <table id="custom-table">
               <thead>
                 <tr>
                   <th>Product Name</th>
