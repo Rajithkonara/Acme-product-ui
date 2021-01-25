@@ -1,5 +1,9 @@
 # product-ui
 
+## Requirements
+
+- Make sure the product-service is up and running
+
 ## Project setup
 ```
 npm install
